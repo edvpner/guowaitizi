@@ -25,3 +25,11 @@
 目前最划算的是新用户，买一年送一年的特惠活动，$1.99/月。支持支付宝、微信、银联卡等国内付款方式。7天退款保障。
 
 
+|  其他好用的国外梯子  |
+|  ----  | 
+| [PandaVPN](https://www.panhdpe.xyz/r/22216799) | 
+| [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=github&aff_click_id=supervpn) | 
+| [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=github&data2=supervpn) 
+| [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supervpn) | 顶级品牌（需翻墙后购买）
+| [SurfShark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401) | 不限设备数（需翻墙后购买） 
+| [StrongVPN](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitsuper&data2=supervpn) | 10月份不稳定，正在恢复中 |
