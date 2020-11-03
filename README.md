@@ -16,7 +16,6 @@
 
 因为新推出不久，目前还在大力推广，对新用户买一年送一年，优惠力度是目前市场上所有VPN软件里最大的。
 
-![www.baidu.com](pandadiscount.png)
 
 不过我们在这里推荐熊猫VPN，花时间来写这篇文章，不只是因为它现在很便宜，而是因为我们在我们的安卓和苹果手机上都使用过它，我们原本以为目前的新VPN能用的可能性不大， 但发现它能完美地连上国外服务器，并且速度还很快，还是让我们倍感惊喜。
 
@@ -32,4 +31,4 @@
 | [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=github&data2=supervpn) 
 | [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supervpn) | 顶级品牌（需翻墙后购买）
 | [SurfShark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401) | 不限设备数（需翻墙后购买） 
-| [StrongVPN](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitsuper&data2=supervpn) | 10月份不稳定，正在恢复中 |
+| [StrongVPN](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitsuper&data2=supervpn) | 10月份不稳定，正在恢复中 
