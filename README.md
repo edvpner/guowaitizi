@@ -1,7 +1,7 @@
 # 国外梯子怎么下载，小白不会弄啊，谁给推荐个好用的国外的梯子？
 
 
-![熊猫VPN官网](https://www.panhdpe.xyz/r/22216799)
+[熊猫VPN官网](https://www.panhdpe.xyz/r/22216799)
 
 熊猫VPN是翻墙软件市场的后起之秀。
 
@@ -10,7 +10,7 @@
 ![pandashow](pandashow.png)
 
 
-![熊猫VPN官网](https://www.panhdpe.xyz/r/22216799)
+[熊猫VPN官网](https://www.panhdpe.xyz/r/22216799)
 
 ### 熊猫VPN功能与优惠
 
